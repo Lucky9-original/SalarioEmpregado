@@ -8,6 +8,9 @@ import java.util.Scanner;
 public class SalarioEmpregado {
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("Bom dia!");
+        
         Scanner tec = new Scanner(System.in);
         
         System.out.print("How many employees will be registered? ");
